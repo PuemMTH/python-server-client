@@ -1,5 +1,5 @@
-# Slimple Client & Server  :octocat:
-## Python 3.9
+# Slimple Client & Server  
+## Python 3.9 :octocat:
 
-library
-> Socket
+> library
+> - Socket
