@@ -1,9 +1,5 @@
-# Python 3.9 
-## library
-- [x] socket
+# Slimple Client & Server  :octocat:
+## Python 3.9
 
-*This text will be italic*
-_This will also be italic_
-**This text will be bold**
-__This will also be bold__
-*You **can** combine them*
+library
+> Socket
